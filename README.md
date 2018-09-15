@@ -14,11 +14,13 @@ Vanilla Skyblock Release of data pack will happen when datapack is at v1.0
 ########################################################################################
 Hey Crafters.
 
-Today I bring you massive data pack packed full of goodies.
-In this edition we are bringing out Vanilla Skyblock Server Edition r0.5
+Today I bring you decent data pack packed full of goodies.
+In this edition we are bringing out Vanilla Skyblock Server Edition r0.9
 What is Skyblock you ask? well Skyblock is a gamemode that challanges people to build with a very limited start.
 Limited as in a small island above y 200 so big drop if you fall off, you will find a small chest with some basic stuff and must build with what you have.
-I wont spoil it all but  explain to you the many features revision 0.5 has .
+I wont spoil it all but  explain to you the many features revision 0.9 has.
+
+Please check Project tab, Wiki for more Information
 
 Features: View Project Tab for everything...
 
@@ -41,7 +43,9 @@ Features: View Project Tab for everything...
 	Custom loot tables for mobs
 	UUID system: give each player a unique ID
 	Vote system: allows for scorboard voteOflline to be set when a user votes with vanilla votifier or via Rcon
-	Randomm cobble generator: gives random blocks when mining cobble.
-	Obsidian to lava: acidently make obsidian when making a generator you can turn it back into a lava bucket.
-	and much much more to come ;)...
+	ChestPlus datapack - Keys that open chest
+	Vanilla kits datapack - kits in vanilla
+	Vanilla lotto datapack -  economy based lotto system
+	plus much more in development.
+	.
 
