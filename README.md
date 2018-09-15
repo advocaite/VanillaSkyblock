@@ -47,5 +47,9 @@ Features: View Project Tab for everything...
 	Vanilla kits datapack - kits in vanilla
 	Vanilla lotto datapack -  economy based lotto system
 	plus much more in development.
+	
+	If yo9u need hosting Shockbyte is pretty awsome.
+	http://shockbyte.com/billing/aff.php?aff=1495
+
 	.
 
