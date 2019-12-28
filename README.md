@@ -46,6 +46,7 @@ Features: View Project Tab for everything...
 	ChestPlus datapack - Keys that open chest
 	Vanilla kits datapack - kits in vanilla
 	Vanilla lotto datapack -  economy based lotto system
+	Vanilla Broadcaster Datapack - Broadcast important messages to server players
 	plus much more in development.
 	
 	If yo9u need hosting Shockbyte is pretty awsome.
